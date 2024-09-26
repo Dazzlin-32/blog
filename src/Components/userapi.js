@@ -4,7 +4,7 @@ let data  = [
         title : "I found you in Physics!",
         src :'C:\Users\slave\OneDrive\Desktop\Gits\blog\public\images\0.jpg',
         body : `
-        I swear I wasn’t thinking of you!
+        I swear I wasn’t thinking of you!\n
          I don’t succeed often in managing my thoughts when it comes to not thinking about you, but this time, I did. Even if it was for a day, that’s a big progress for me. I hate going outside anymore because my heart skips a bit every time I confuse another guy with you, which happens so many times. That leads me back to thinking about you, which instead shifts my mood to negativity and inserts me in a loop of trying to stop thinking about you. Anyways, I managed to break the loop this time, and I wasn’t even aware of it. My mind took me to a discovery of different physics theories to feed its curiosity, a way to distract me from thinking about you, and also a distaction from the to-do-lists that are waiting for me, about new things. There was no link between you and physics for my liking, so I was enjoying the journey. I was reading about quantum theories and how sophisticated they are. Trying to understand this concept in itself incules some sophisticated way of thinking that I was engaged with happily to keep my mind busy. Once I felt I understood it, another article blows me again, and I start from zero. Then this explanation eased my busy mind.
 The mystery box experiment. The cat is both dead AND alive in the box until it is opened. It’s not dead OR alive. Quantum is as simple as that. Once I eased my mind with this logic, I went further in. A quantum computer! “Oh that’s interesting” said to my mind applauding how it managed to keep myself busy with these things. Our computers are logical. Just as our minds. The bits can be either 0 or 1. Nothing else. Can they be 0 AND 1? I mean that’s not logical right! Then quantum jumps in to make that logic feel ashamed of itself. Bits can be 0 AND 1 simultaneously which is called the Superposition of two states. Now we can’t call them bits anymore because bits are 0 and 1. So these new weird bits were quantum bits hence qubits. This is beyond the explanation of classical physics. So scientists can measure the probability of the superposition states and calculate the state of the bit. Then comes this weird ability of scientists to control the states of two quantum units. Even Einstein called this property "spooky action at a distance." Not even quantum physics has a proper definition about this. So basically, it is the property of quantum units that show the same behavioral changes no matter the distance, once they are entangled. They can actually feel the change. Wait up! This has no connection with you calling and checking randomly if I was okay whenever I cried, right? Or me calling you exactly when you were about to call me for the zillionth times right? Or both of us, knowing from the beginning that it wasn’t just a chat with a stranger but a perfect fit for each other, RIGHT? Were we quantumly entangled to the point we understood each other from a distance without communication? But I came here to stop thinking about you! I continue. Too bad we’re not gonna use these quantum computers as our laptops in the near future. Well here’s why. Quantum qubits are so sensitive that the slightest vibrations can disrupt their superposition state. Scientists call this Quantum Decoherence. But if they survive the decoherence, these qubits can gain the Quantum Supermacy. Yes, as it’s name suggests supermacy, the ability of quantum computers to compute calculations that are beyond the ability of supercomputers at our time(because who knows what the future holds right!). I stop here as my mind is full of new information it will process for the next few days. A loong distraction. What a journey with physics today.
 My conclusion : Quantum physics challenges the concept of classical physics as classical physics can not give a proper explanation for Quantum. Challenges often open new doors, new perspectives. I’m still not thinking about you, but are we gonna end up with a Quantum Decoherence affected by noises of our environment or work on solving the calculations so we can get the Quantum Supermacy?`        
@@ -14,17 +14,18 @@ My conclusion : Quantum physics challenges the concept of classical physics as c
         title : "Down the Nostalgic Road",
         body : ` On the background Cold Play's The Scientist is playing.
 
-        ‘Come up to meet you, tell you I'm sorry
+        ‘Come up to meet you, tell you I'm sorry\n\n
         You don't know how lovely you are
         I had to find you, tell you I need you
         Tell you I set you apart’
-        
+        \n
         The first lines of this music woke an unknown nostalgic feeling inside of me. My mind started rewinding back to older times just like the music clip of this song. I'm not sure if it's the melody or the lyrics taking me.
         
         ‘Tell me your secrets and ask me your questions
         Oh, let's go back to the start
         Running in circles, coming up tails
         Heads on a science apart’
+        \n
         
         Back to the times where songs were this good that if you listen to them after years, it would still give you the same goosebumps. Times where we were just kids wanting to be an adult so fast not knowing the beauty of our childhood times.
         

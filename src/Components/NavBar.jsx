@@ -12,6 +12,7 @@ function NavBar() {
     }
     return ( 
         <nav className='navBar'>
+            <a href="/">Dazzlina</a>
             <a href="/">My personal Blog</a>
             <a href="#blogs">Blogs</a>
             <a href="#contact">Contact</a>

@@ -11,7 +11,7 @@ body{
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-  background-color: rgb(231, 68, 95)
+  background-color: rgb(231, 68, 95);
 }
 .navBar a {
   color: white ;
@@ -26,7 +26,7 @@ body{
 .oneblogContainer {
 
   width: 50%;
-  height: 30em;
+  height: 50em;
   margin: auto;
   border-radius: 4px;
   display: flex;
@@ -46,6 +46,11 @@ body{
   justify-content: center;
   align-items: center;
 }
+.oneblogContainer h6{
+  visibility: hidden;
+  position: absolute; /* New property */
+  pointer-events: none; /* New property */
+}
 
 .oneblogContainer p:hover {
   flex: 4;
@@ -64,6 +69,41 @@ body{
 
 .oneblogContainer p:hover span {
   transform: rotate(0);
+  opacity: 0; 
+  position: absolute; /* New property */
+  pointer-events: none; /* New property */
+}
+
+
+/* New styles for images */
+.oneblogContainer p::before {
+  content: '';
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.oneblogContainer p:hover::before {
+  opacity: 1;
+}
+
+/* Add background images for each p element */
+.oneblogContainer p:nth-child(1)::before {
+  background-image: url('./images/flower.jpg');
+}
+
+.oneblogContainer p:nth-child(2)::before {
+  background-image: url('./images/me.jpeg');
+}
+
+.oneblogContainer p:nth-child(3)::before {
+  background-image: url('./images/flower2.jpg');
 }
 
 
@@ -84,8 +124,8 @@ body{
  {
  
   position: relative;
-  width: 15em;
-  height: 20em;
+  width: 20em;
+  height: 25em;
   border-radius: 14px;
   z-index: 1111;
   overflow: hidden;
@@ -123,8 +163,8 @@ body{
   position: absolute;
   top: 5px;
   left: 5px;
-  width: 14em;
-  height: 19em;
+  width: 18em;
+  height: 22em;
   z-index: 2;
   background: rgba(255, 255, 255, .95);
   backdrop-filter: blur(24px);
@@ -174,12 +214,12 @@ Footer details */
 
 .footerContainer{
   width: 100%;
-  height: 10em;
+  height: 20em;
   margin-top: 1em;
   background-color: rgb(231, 68, 95);
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
   color: white;
   font-family: 'Playfair Display';
 }
@@ -313,8 +353,8 @@ Footer details */
 .containerBlog{
   margin: auto;
   margin-top: 1em;
-  padding: 1em;
-  width: 75%;
+  padding: 2em;
+  width: 35%;
   border-radius: 25px;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
@@ -325,6 +365,11 @@ Footer details */
 
 .containerBlog p {
   font-size: 18px;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  font-weight: 100;
+  letter-spacing: -0.003em;
+  line-height: 32px;
+  
 }
 
 
